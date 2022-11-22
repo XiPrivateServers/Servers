@@ -37,6 +37,10 @@ _**Note:** This page only includes servers that have wished to be listed and par
 
 # Level Cap: 90 - Custom Content
 
+| Name | Discord | Expansion | Rates | Move Speed | Level Sync? | Trusts? | Dual-Boxing? | Full Info |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [Valhalla](https://valhalla.group/) | [Join](https://discord.gg/enB8nh3FKp) | Abyssea | Custom | 70 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | [Link](/servers/90_custom/valhalla.md) |
+
 # Level Cap: 99 - Retail-Like
 
 # Level Cap: 99 - Custom Content
