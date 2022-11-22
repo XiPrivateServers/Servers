@@ -57,6 +57,8 @@ We also house developer discussions for private server developers / server admin
 
 Once servers have gained a 'trusted' status of being active and part of the community for a period of time, staff of each server is added to a set of moderation channels that allows staff of all servers to privately communicate with each other in regards to administrative topics and issues. Such as player warnings/bans of problem players, exploit discoveries and warnings, assistance with server operations and more.
 
+You can join our Discord here: [https://discord.gg/msACzWV](https://discord.gg/msACzWV)
+
 # Final Fantasy Private Server Core Project
 
 The current in-development server core for Final Fantasy XI private servers is: [LandSandBoat](https://github.com/LandSandBoat/server)
