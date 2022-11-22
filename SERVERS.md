@@ -43,4 +43,8 @@ _**Note:** This page only includes servers that have wished to be listed and par
 
 # Level Cap: 99 - Retail-Like
 
+| Name | Discord | Expansion | Rates | Move Speed | Level Sync? | Trusts? | Dual-Boxing? | Full Info |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [xiweb](https://xiweb.catsangel.com/) | [Join](https://discord.gg/77j69vffNM) | All | Retail | Retail | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | [Link](/servers/99_retail/xiweb.md) |
+
 # Level Cap: 99 - Custom Content
