@@ -22,8 +22,8 @@ _**Note:** This page only includes servers that have wished to be listed and par
 
 | Name | Discord | Expansion | Rates | Move Speed | Level Sync? | Trusts? | Dual-Boxing? | Full Info |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-[Aurora](http://aurorahcs.com/) | [Join](https://discord.gg/HYtX3Re) | CoP | Custom | Retail | :heavy_check_mark: | :x: | :x: | [Link](/servers/75_custom/aurora.md) |
 [AtavismXI](https://www.atavismxi.com/) | [Join](https://discord.gg/D8urYjmhDA) | CoP | Custom | Retail | :heavy_check_mark: | :x: | :heavy_check_mark: | [Link](/servers/75_custom/atavismxi.md) |
+[Aurora](http://aurorahcs.com/) | [Join](https://discord.gg/HYtX3Re) | CoP | Custom | Retail | :heavy_check_mark: | :x: | :x: | [Link](/servers/75_custom/aurora.md) |
 [CatsEyeXI](http://catseyexi.com/) | [Join](https://discord.gg/gAFrtH6zBP) | Wings | Custom | Retail | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:<br>_(2 active)_ | [Link](/servers/75_custom/catseyexi.md) |
 [Demiurge](http://www.demiurge.pw) | [Join](https://discord.gg/SSU3HMq) | CoP<br>_(with ACP)_ | Custom | Flee Speed | :heavy_check_mark: | :x: | :heavy_check_mark:<br>_(3 active)_ | [Link](/servers/75_custom/demiurge.md) |
 [Era](https://ffera.com/) | [Join](https://discord.gg/v2T95kq) | Wings | Custom | Increased :question: | :heavy_check_mark: | :x: | :heavy_check_mark | [Link](/servers/75_custom/era.md) |
