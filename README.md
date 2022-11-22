@@ -18,7 +18,7 @@ Welcome! This repository is home to the Final Fantasy XI private server communit
 
 The private server community for FFXI is full of various servers available for anyone to play on. Each server has its own vision and goals in regards to how the server is setup, configured, and what contain is made available. Some servers strive to replicate original retail eras of the game (ie. old school CoP, Treasures, etc.) while others aim to provide a customized expeience with their own custom content, modifications to existing content and more.
 
-**You can find a list of available servers here: [Server List](SERVERS.MD)**
+**You can find a list of available servers here: [Server List](SERVERS.md)**
 
 _**Note:** To help declutter the main server list page, the list is generalized to key aspects about each server. For much more detailed information about each server, be sure to check the servers individually linked custom advertisement page. These individual pages hold much more detail about the server, its various configurations (ie. rates) and available content._
 
