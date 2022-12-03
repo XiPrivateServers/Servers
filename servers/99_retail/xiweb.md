@@ -1,7 +1,7 @@
 # xiweb
 
-  - **Website:** https://valhalla.group/
-  - **Discord:** https://discord.gg/enB8nh3FKp
+  - **Website:** https://xiweb.catsangel.com/
+  - **Discord:** https://discord.gg/77j69vffNM
 
 # Server Information
 
