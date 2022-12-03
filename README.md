@@ -24,6 +24,14 @@ The private server community for FFXI is full of various servers available for a
 >
 > To help declutter the main server list page, the list is generalized to key aspects about each server. For much more detailed information about each server, be sure to check the servers individually linked custom advertisement page. These individual pages hold much more detail about the server, its various configurations (ie. rates) and available content.
 
+# For Server Owners
+
+Are you the owner of a server and are looking to either submit your server to our lists or update an existing listing? If so, please be sure to first check the [Server List Guidelines](GUIDELINES.md) documentation for more information.
+
+New servers are expected to meet a set of requirements to be added to the server lists here. _These requirements are designed to avoid having hundreds of servers that will disappear within a week of launching because the owner does not understand the work involved to run a successful server._
+
+Existing servers updating their advertisemen document also need to adhere to some moderation rules listed in the guidelines documentation.
+
 # Further Discussions
 
 Our community has two primary means of communication and discussions; Discord and Reddit
