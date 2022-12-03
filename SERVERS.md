@@ -8,6 +8,7 @@
 This page is an overview of the various private servers currently available. Each server listed on this page also has its own dedicated page for much more information about that server. Please be sure to check out those extra pages to get even more detail about any servers you may be interested in.
 
 > **Note**
+> 
 > This page only includes servers that have wished to be listed and part of the community!
 
 # Level Cap: 75 - Retail-Like
