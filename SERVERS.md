@@ -56,5 +56,5 @@ _**Note:** This page only includes servers that have wished to be listed and par
 | [Homepoint](http://homepointxi.com/) | [Join](https://discord.gg/BahyXQj) | Abyssea | Custom | 2x | :heavy_check_mark: | :x: | :heavy_check_mark: | [Link](/servers/99_custom/homepoint.md) |
 | [MogHouse.cc](https://www.moghouse.cc) | [Join](https://discord.gg/3ZfEJrp56X) | All | Custom | 60 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | [Link](/servers/99_custom/moghouse.md) |
 | [Nocturnal Souls](https://nocturnalsouls.net/) | [Join](https://discord.gg/swnTWUv) | All | Custom | :question: | :heavy_check_mark: | :question: | :heavy_check_mark:<br>_(3 active)_ | [Link](/servers/99_custom/nocturnal_souls.md) |
-| [Omnicron](https://omicronxi.fandom.com/) | [Join](https://discord.gg/QknwN8fXPf) | All | Custom | 50 | :heavy_check_mark: | :heavy_check_mark: | :question: | [Link](/servers/99_custom/omnicron.md) |
+| [Omicron](https://omicronxi.fandom.com/) | [Join](https://discord.gg/QknwN8fXPf) | All | Custom | 50 | :heavy_check_mark: | :heavy_check_mark: | :question: | [Link](/servers/99_custom/omnicron.md) |
 | [Realms of Jova](http://realmsofjova.net/) | [Join](https://discord.gg/CJyN4WC) | All | Custom | 2x | :heavy_check_mark: | :x: | :heavy_check_mark: | [Link](/servers/99_custom/realms_of_jova.md) |
