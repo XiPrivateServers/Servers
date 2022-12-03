@@ -21,6 +21,7 @@ The private server community for FFXI is full of various servers available for a
 **You can find a list of available servers here: [Server List](SERVERS.md)**
 
 > **Note**
+>
 > To help declutter the main server list page, the list is generalized to key aspects about each server. For much more detailed information about each server, be sure to check the servers individually linked custom advertisement page. These individual pages hold much more detail about the server, its various configurations (ie. rates) and available content.
 
 # Further Discussions
