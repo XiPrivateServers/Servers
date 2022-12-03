@@ -6,4 +6,5 @@
 # Server Information
 
 > **Warning**
+> 
 > This server's administration team is banned from our community for continued problematic behavior.
