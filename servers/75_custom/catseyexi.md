@@ -1,7 +1,9 @@
 # CatsEyeXI
+![image](https://user-images.githubusercontent.com/65316697/209901363-4b35895b-e305-492d-9f44-1ad372a5212b.png)
+![image](https://user-images.githubusercontent.com/65316697/209901374-40ce1b57-5b01-411f-9578-127ae0f25e4b.png)
 
-  - **Website:** http://catseyexi.com/
-  - **Discord:** https://discord.gg/gAFrtH6zBP
+  - **Website:** https://catseyexi.com/
+  - **Discord:** https://discord.gg/catseyexi
 
 # Server Information
 
