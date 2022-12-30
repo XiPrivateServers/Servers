@@ -10,11 +10,10 @@
 ---
 
 <table>
-<p align="center">
 <tr><th>Basic Information </th><th>Custom Content</th></tr>
 <tr><td>
 
-| Basic Information       |
+| **Basic Information**       |
 |:----------------------- |
 | Level 75 Cap            |
 | Trusts: Enabled         |
@@ -31,7 +30,7 @@
 
 </td><td>
 
-| Custom Content          |
+| **Custom Content**          |
 |:------------------------|
 | Sky Augment System
 | AF+1 Augment System
@@ -42,8 +41,6 @@
 | Login Campaigns
 | Mythic/Aeonic Quests
 | RUN/GEO with AF Quests
-</p>
-
 </td></tr> </table>
 
 ---
