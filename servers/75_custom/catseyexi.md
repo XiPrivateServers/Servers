@@ -9,6 +9,7 @@
 
 ---
 
+<p align="center"></p>
 <table>
 <tr><th>Basic Information </th><th>Custom Content</th></tr>
 <tr><td>
