@@ -8,7 +8,7 @@
 <h2 align="center">Our Software Will Never Affect Other Servers!</h1>
 
 
-[Download](https://www.catseyexi.com/login.php?p=download)
+[DOWNLOAD](https://www.catseyexi.com/login.php?p=download)
 
 
 ---
