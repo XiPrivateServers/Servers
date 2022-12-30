@@ -8,9 +8,8 @@
 <h2 align="center">Our Software Will Never Affect Other Servers!</h1>
 
 
-<p align="center">
 [DOWNLOAD](https://www.catseyexi.com/login.php?p=download) &emsp; [DISCORD](https://discord.gg/catseyexi) &emsp; [WEBSITE](https://catseyexi.com) &emsp; [WIKI](https://github.com/CatsAndBoats/catseyexi/wiki)
-</p>
+
 
 ---
 
