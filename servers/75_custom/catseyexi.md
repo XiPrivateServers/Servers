@@ -45,40 +45,7 @@
 </td></tr> </table>
 </p>
 
-
-
-
-
-
-
-
-| Level 75 Cap            |
-| Trusts: Enabled         |
-| Free Item Campaigns     |
-| Free Relics from Crafting|
-| Missions up to Wings    |
-| Explore Additional Areas from: Abyssea, Wings, Seekers of Adoulin|
-| Boosted Crafting Rates  |
-| Boosted EXP Rates       |
-| Records of Eminence     |
-| Survival Guides         |
-| Outposts: Unlocked      |
-| Maps: Unlocked          |
-
 ---
-
-| Custom Content          |
-|:------------------------|
-| Sky Augment System
-| AF+1 Augment System
-| Domain Invasion
-| Sky 2.0
-| Nyzul Isle
-| Custom HNM System
-| Login Campaigns
-| Mythic/Aeonic Quests
-| RUN/GEO with AF Quests
-
 
   - **Website:** https://catseyexi.com/
   - **Discord:** https://discord.gg/catseyexi
