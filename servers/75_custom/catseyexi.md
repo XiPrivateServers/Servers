@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/65316697/209901374-40ce1b57-5b01-411f-9578-127ae0f25e4b.png" width=40%>
 
 | Features                |
-| -----------------------:|
+|:----------------------- |
 | Level 75 Cap            |
 | Trusts: Enabled         |
 | Free Item Campaigns     |
