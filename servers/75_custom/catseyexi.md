@@ -13,7 +13,7 @@
 <tr><th>Basic Information </th><th>Custom Content</th></tr>
 <tr><td>
 
-
+| Basic Information       |
 |:----------------------- |
 | Level 75 Cap            |
 | Trusts: Enabled         |
