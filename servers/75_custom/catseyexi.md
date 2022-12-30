@@ -53,7 +53,7 @@
   - **Website:** https://catseyexi.com/
   - **Discord:** https://discord.gg/catseyexi
 
-# Server Information
+# Testimonials
 
 You can find previous Reddit threads for this server here:
 
