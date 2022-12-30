@@ -17,6 +17,8 @@
 | Outposts: Unlocked      |
 | Maps: Unlocked          |
 
+---
+
 | Custom Content          |
 |:------------------------|
 | Sky Augment System
