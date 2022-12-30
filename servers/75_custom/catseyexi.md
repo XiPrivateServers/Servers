@@ -1,6 +1,7 @@
 # CatsEyeXI
 <img src="https://user-images.githubusercontent.com/65316697/209901363-4b35895b-e305-492d-9f44-1ad372a5212b.png" width=40%>
 <img src="https://user-images.githubusercontent.com/65316697/209901374-40ce1b57-5b01-411f-9578-127ae0f25e4b.png" width=40%>
+---
 
 | Basic Information       |
 |:----------------------- |
