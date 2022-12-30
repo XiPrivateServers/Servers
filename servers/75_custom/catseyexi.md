@@ -6,7 +6,9 @@
     <img src="https://user-images.githubusercontent.com/65316697/209901374-40ce1b57-5b01-411f-9578-127ae0f25e4b.png" width=40%>
 </p>
 <h2 align="center">Our Software Will Never Affect Other Servers!</h1>
-[DOWNLOAD](https://www.catseyexi.com/login.php?p=download)
+
+
+[Download](https://www.catseyexi.com/login.php?p=download)
 
 
 ---
