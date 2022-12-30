@@ -2,7 +2,8 @@
 <img src="https://user-images.githubusercontent.com/65316697/209901363-4b35895b-e305-492d-9f44-1ad372a5212b.png" width=40%>
 <img src="https://user-images.githubusercontent.com/65316697/209901374-40ce1b57-5b01-411f-9578-127ae0f25e4b.png" width=40%>
 <img src="https://user-images.githubusercontent.com/65316697/209901790-b178599f-26d1-4d99-b60a-720c64d1aa93.png" width=80%>
-
+| Features 
+| ------------------------:|
 
   - **Website:** https://catseyexi.com/
   - **Discord:** https://discord.gg/catseyexi
