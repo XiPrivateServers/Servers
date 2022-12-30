@@ -1,4 +1,4 @@
-# CatsEyeXI - *Now powered by Ashita-v4 Sandbox Mode*
+# CatsEyeXI - *Powered by Ashita-v4*
 <p align="center">
     <img src="https://user-images.githubusercontent.com/65316697/209901363-4b35895b-e305-492d-9f44-1ad372a5212b.png" width=40%>
 </p>
