@@ -9,8 +9,8 @@
 
 ---
 
-<p align="center">
 <table>
+<p align="center">
 <tr><th>Basic Information </th><th>Custom Content</th></tr>
 <tr><td>
 
@@ -42,9 +42,9 @@
 | Login Campaigns
 | Mythic/Aeonic Quests
 | RUN/GEO with AF Quests
+</p>
 
 </td></tr> </table>
-</p>
 
 ---
 
