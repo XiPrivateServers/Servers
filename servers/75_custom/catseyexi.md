@@ -5,7 +5,7 @@
 <p align="center">
     <img src="https://user-images.githubusercontent.com/65316697/209901374-40ce1b57-5b01-411f-9578-127ae0f25e4b.png" width=40%>
 </p>
-<h1 align="center">Material Bread</h1>
+<h2 align="center">Our Server will never interfere with other Private Servers!</h1>
 
 ---
 
