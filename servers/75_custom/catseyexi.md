@@ -51,6 +51,13 @@
 
 ---
 
+## Try our New Launcher!
+<p align="center">
+    ![image](https://user-images.githubusercontent.com/65316697/210086234-b7e3c427-5498-4074-ba5c-fef0f77b25b7.png)
+</p>
+
+---
+
   - **Website:** https://catseyexi.com/
   - **Discord:** https://discord.gg/catseyexi
 
