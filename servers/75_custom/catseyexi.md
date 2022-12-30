@@ -8,7 +8,7 @@
 <h2 align="center">Our Software Will Never Affect Other Servers!</h1>
 
 
-<a href="google.com">google</a>
+<a href="https://www.catseyexi.com/login.php?p=download">Download</a> &emsp; <a href="https://discord.gg/catseyexi">Discord</a> &emsp; <a href=https://catseyexi.com>Website</a> &emsp; <a href="https://www.catseyexi.com/login.php?p=rules">Rules</a>
 
 [DOWNLOAD](https://www.catseyexi.com/login.php?p=download) &emsp; [DISCORD](https://discord.gg/catseyexi) &emsp; [WEBSITE](https://catseyexi.com) &emsp; [WIKI](https://github.com/CatsAndBoats/catseyexi/wiki) &emsp; [RULES](https://www.catseyexi.com/login.php?p=rules)
 
