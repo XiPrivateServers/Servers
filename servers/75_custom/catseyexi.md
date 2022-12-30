@@ -52,7 +52,7 @@
 
 ---
 
-## Try our New Launcher!
+## Try our New Launcher! Download link above!
 <p align="center">
     <img src="https://user-images.githubusercontent.com/65316697/210086234-b7e3c427-5498-4074-ba5c-fef0f77b25b7.png">
 </p>
