@@ -2,15 +2,15 @@
 <img src="https://user-images.githubusercontent.com/65316697/209901363-4b35895b-e305-492d-9f44-1ad372a5212b.png" width=40%>
 <img src="https://user-images.githubusercontent.com/65316697/209901374-40ce1b57-5b01-411f-9578-127ae0f25e4b.png" width=40%>
 
-Basic Information
-
+| Basic Information       |
 |:----------------------- |
 | Level 75 Cap            |
 | Trusts: Enabled         |
 | Free Item Campaigns     |
 | Free Relics from Crafting|
 | Missions up to Wings    |
-| Explore Additional Areas from: Abyssea, Wings, Seekers of Adoulin|
+| Explore Additional Areas from: 
+Abyssea, Wings, Seekers of Adoulin|
 | Boosted Crafting Rates  |
 | Boosted EXP Rates       |
 | Records of Eminence     |
