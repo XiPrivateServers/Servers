@@ -5,7 +5,7 @@
 <p align="center">
     <img src="https://user-images.githubusercontent.com/65316697/209901374-40ce1b57-5b01-411f-9578-127ae0f25e4b.png" width=40%>
 </p>
-<h2 align="center">Our Software Will Never Affect Other Servers!</h1>
+<h2 align="center">Our Software Will Never Interfere With Other Servers!</h1>
 
 <p align="center">
 <a href="https://www.catseyexi.com/login.php?p=download">DOWNLOAD</a> &emsp; <a href="https://discord.gg/catseyexi">DISCORD</a> &emsp; <a href=https://catseyexi.com>WEBSITE</a> &emsp; <a href="https://github.com/CatsAndBoats/catseyexi/wiki">WIKI</a> &emsp; <a href="https://www.catseyexi.com/login.php?p=rules">RULES</a>
