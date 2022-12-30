@@ -30,8 +30,6 @@
 | RUN/GEO with AF Quests
 
 
-<img src="https://user-images.githubusercontent.com/65316697/209901790-b178599f-26d1-4d99-b60a-720c64d1aa93.png" width=80%>
-
   - **Website:** https://catseyexi.com/
   - **Discord:** https://discord.gg/catseyexi
 
