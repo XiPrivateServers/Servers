@@ -9,14 +9,25 @@
 | Free Item Campaigns     |
 | Free Relics from Crafting|
 | Missions up to Wings    |
-| Explore Additional Areas from: 
-Abyssea, Wings, Seekers of Adoulin|
+| Explore Additional Areas from: Abyssea, Wings, Seekers of Adoulin|
 | Boosted Crafting Rates  |
 | Boosted EXP Rates       |
 | Records of Eminence     |
 | Survival Guides         |
 | Outposts: Unlocked      |
 | Maps: Unlocked          |
+
+| Custom Content          |
+|:------------------------|
+| Sky Augment System
+| AF+1 Augment System
+| Domain Invasion
+| Sky 2.0
+| Nyzul Isle
+| Custom HNM System
+| Login Campaigns
+| Mythic/Aeonic Quests
+| RUN/GEO with AF Quests
 
 
 <img src="https://user-images.githubusercontent.com/65316697/209901790-b178599f-26d1-4d99-b60a-720c64d1aa93.png" width=80%>
