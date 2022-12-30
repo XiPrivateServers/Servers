@@ -40,6 +40,7 @@
 | Sky Augment System
 | AF+1 Augment System
 | Domain Invasion
+| Ancient Beastcoin Exchange
 | Sky 2.0
 | Nyzul Isle
 | Custom HNM System
