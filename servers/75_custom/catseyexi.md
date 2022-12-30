@@ -5,6 +5,12 @@
 | Features                |
 | -----------------------:|
 | Level 75 Cap            |
+| Trusts: Enabled         |
+| Free Item Campaigns     |
+| Free Relics Rewards from Crafting|
+| Missions up to ToAU     |
+| Explore Additional Areas from: Abyssea, Wings, Seekers of Adoulin|
+
 
 <img src="https://user-images.githubusercontent.com/65316697/209901790-b178599f-26d1-4d99-b60a-720c64d1aa93.png" width=80%>
 
