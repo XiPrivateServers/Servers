@@ -11,9 +11,6 @@
 <a href="https://www.catseyexi.com/login.php?p=download">DOWNLOAD</a> &emsp; <a href="https://discord.gg/catseyexi">DISCORD</a> &emsp; <a href=https://catseyexi.com>WEBSITE</a> &emsp; <a href="https://github.com/CatsAndBoats/catseyexi/wiki">WIKI</a> &emsp; <a href="https://www.catseyexi.com/login.php?p=rules">RULES</a>
 </p>
 
-[DOWNLOAD](https://www.catseyexi.com/login.php?p=download) &emsp; [DISCORD](https://discord.gg/catseyexi) &emsp; [WEBSITE](https://catseyexi.com) &emsp; [WIKI](https://github.com/CatsAndBoats/catseyexi/wiki) &emsp; [RULES](https://www.catseyexi.com/login.php?p=rules)
-
-
 ---
 
 <p align="center"></p>
