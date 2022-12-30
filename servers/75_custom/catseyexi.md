@@ -8,6 +8,7 @@
 <h2 align="center">Our Software Will Never Affect Other Servers!</h1>
 
 ---
+
 <p align="center">
 <table>
 <tr><th>Basic Information </th><th>Custom Content</th></tr>
