@@ -2,14 +2,20 @@
 <img src="https://user-images.githubusercontent.com/65316697/209901363-4b35895b-e305-492d-9f44-1ad372a5212b.png" width=40%>
 <img src="https://user-images.githubusercontent.com/65316697/209901374-40ce1b57-5b01-411f-9578-127ae0f25e4b.png" width=40%>
 
-| Features                |
+| Basic Information       |
 |:----------------------- |
 | Level 75 Cap            |
 | Trusts: Enabled         |
 | Free Item Campaigns     |
-| Free Relics Rewards from Crafting|
-| Missions up to ToAU     |
+| Free Relics from Crafting|
+| Missions up to Wings    |
 | Explore Additional Areas from: Abyssea, Wings, Seekers of Adoulin|
+| Boosted Crafting Rates  |
+| Boosted EXP Rates       |
+| Records of Eminence     |
+| Survival Guides         |
+| Outposts: Unlocked      |
+| Maps: Unlocked          |
 
 
 <img src="https://user-images.githubusercontent.com/65316697/209901790-b178599f-26d1-4d99-b60a-720c64d1aa93.png" width=80%>
