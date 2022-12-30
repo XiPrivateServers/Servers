@@ -51,8 +51,7 @@
 
 
 
-| Basic Information       |
-|:----------------------- |
+
 | Level 75 Cap            |
 | Trusts: Enabled         |
 | Free Item Campaigns     |
