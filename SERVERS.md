@@ -18,7 +18,7 @@ This page is an overview of the various private servers currently available. Eac
 | [Eden](https://edenxi.com/) | [Join](https://discord.gg/S3EAWr2Jec) | ToAU | Retail | Retail | :heavy_check_mark: | :x: | :heavy_check_mark:<br>_(2 active, 1 bazaar/mule)_ | [Link](/servers/75_retail/eden.md) |
 | [Kujata Reborn](https://kujatareborn.com/) | [Join](https://discord.gg/N2mf8KZ) | Wings | Retail | Retail | :heavy_check_mark: | :x: | :heavy_check_mark:<br>_(2 active, 1 bazaar/crafter/mule)_ | [Link](/servers/75_retail/kujata_reborn.md) |
 | [Omega](https://ffxi.party/) | [Join](https://discord.gg/srNwwCs) | ToAU | Retail | Slightly Faster Than Retail | :heavy_check_mark: | :x: | :heavy_check_mark:<br>_(2 active)_ | [Link](/servers/75_retail/omega.md) |
-| [Tabula Rasa](https://tabularasaxi.com/) | [Join](https://discord.gg/FJkrBrV7Cx) | RoZ | Custom | 120% | :x: | :x: | :question: | [Link](/servers/75_retail/tabula_rasa.md) |
+| [Tabula Rasa](https://tabularasaxi.com/) | [Join](https://discord.gg/FJkrBrV7Cx) | RoZ | 2x | 120% | :heavy_check_mark: | :x: | :x: | [Link](/servers/75_retail/tabula_rasa.md) |
 
 # Level Cap: 75 - Custom Content
 
