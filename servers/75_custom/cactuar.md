@@ -41,7 +41,7 @@
 </table>
 <hr style="margin: 0px">
 Play: --server play.cactuarxi.com --nossl 
-
+<br />
 Discord: <a href="https://www.discord.gg/DP59SmXN7v">https://www.discord.gg/CactuarXI</a>
-
+<br />
 Website: Coming Soon
