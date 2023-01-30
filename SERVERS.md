@@ -29,7 +29,7 @@ This page is an overview of the various private servers currently available. Eac
 | [Cactuar](https://www.discord.gg/DP59SmXN7v) | [Join](https://www.discord.gg/DP59SmXN7v) | Wings | Custom (2x) | +12% | :heavy_check_mark: | :x: | :x: | [Link](/servers/75_custom/cactuar.md) |
 | [CatsEyeXI](https://catseyexi.com/) | [Join](https://discord.gg/catseyexi) | Wings | Custom | Retail | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:<br>_(2 active)_ | [Link](/servers/75_custom/catseyexi.md) |
 | [Demiurge](http://www.demiurge.pw) | [Join](https://discord.gg/SSU3HMq) | CoP<br>_(with ACP)_ | Custom | Flee Speed | :heavy_check_mark: | :x: | :heavy_check_mark:<br>_(3 active)_ | [Link](/servers/75_custom/demiurge.md) |
-| [Era](https://ffera.com/) | [Join](https://discord.gg/v2T95kq) | Wings | Custom | Increased :question: | :heavy_check_mark: | :x: | :heavy_check_mark | [Link](/servers/75_custom/era.md) |
+| [Era](https://ffera.com/) | [Join](https://discord.gg/v2T95kq) | Wings | Custom | +20% | :heavy_check_mark: | :x: | :heavy_check_mark: <br>_(3 active)_ | [Link](/servers/75_custom/era.md) |
 | [Hokutens](https://hokutens.fandom.com/wiki/Hokutens_Ultimate_Wiki) | [Join](https://discord.gg/uJsf4N8) | Wings | Custom | 2x Retail | :heavy_check_mark: | :x: | :heavy_check_mark:<br>_(2 active, with rules)_ | [Link](/servers/75_custom/hokutens.md) |
 | [HorizonXI](https://horizonxi.com/) | [Join](https://discord.gg/horizonxi) | CoP | Retail | 40 (Old Retail) | :question: _(TBD)_ | :x: | :x: | [Link](/servers/75_custom/horizonxi.md) |
 | [Nasomi](https://na.nasomi.com/) | [Join](https://na.nasomi.com/chat/) | ToAU | :question: | :question: | :question: | :question: | :question: | [Link](/servers/75_custom/nasomi.md) |
