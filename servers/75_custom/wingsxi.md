@@ -1,4 +1,4 @@
-# Wings
+# WingsXI
 
   - **Website:** https://wingsxi.com/wings/
   - **Discord:** https://discord.gg/wNpVm35wbz

@@ -37,7 +37,7 @@ This page is an overview of the various private servers currently available. Eac
 | [PhoenixXI](https://phoenixxi.online/) | [Join](https://discord.gg/26MJg5Hjv3) | ToAU | Custom | 2x | :heavy_check_mark: | :x: | :heavy_check_mark: | [Link](/servers/75_custom/phoenixxi.md) |
 | [Phynix](https://phynix.fandom.com/wiki/PHYNIX_Wiki) | [Join](https://discord.gg/JBMeqdJ) | ToAU<br>_(with some Wings content)_ | Custom | 150% | :heavy_check_mark: | :x: | :heavy_check_mark:<br>_(2 active)_ | [Link](/servers/75_custom/phynix.md) |
 | [Supernova](https://supernovaffxi.wordpress.com/) | [Join](https://discord.gg/QBBdfQh) | ToAU | Custom | Custom | :heavy_check_mark: | :x: | :heavy_check_mark:<br>_(6 active, with rules)_ | [Link](/servers/75_custom/supernova.md) |
-| [Wings](https://wingsxi.com/wings/) | [Join](https://discord.gg/wNpVm35wbz) | Wings | Retail | Retail | :heavy_check_mark: | :x: | :x: | [Link](/servers/75_custom/wings.md) |
+| [WingsXI](https://wingsxi.com/wings/) | [Join](https://discord.gg/wNpVm35wbz) | Wings | Retail | Retail | :heavy_check_mark: | :x: | :x: | [Link](/servers/75_custom/wingsxi.md) |
 
 # Level Cap: 90 - Custom Content
 
