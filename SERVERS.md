@@ -24,7 +24,6 @@ This page is an overview of the various private servers currently available. Eac
 
 | Name | Discord | Expansion | Rates | Move Speed | Level Sync? | Trusts? | Dual-Boxing? | Full Info |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [AtavismXI](https://www.atavismxi.com/) | [Join](https://discord.gg/D8urYjmhDA) | CoP | Custom | Retail | :heavy_check_mark: | :x: | :heavy_check_mark: | [Link](/servers/75_custom/atavismxi.md) |
 | [Aurora](http://aurorahcs.com/) | [Join](https://discord.gg/HYtX3Re) | CoP | Custom | Retail | :heavy_check_mark: | :x: | :x: | [Link](/servers/75_custom/aurora.md) |
 | [Cactuar](https://www.discord.gg/DP59SmXN7v) | [Join](https://www.discord.gg/DP59SmXN7v) | Wings | Custom (2x) | +12% | :heavy_check_mark: | :x: | :x: | [Link](/servers/75_custom/cactuar.md) |
 | [CatsEyeXI](https://catseyexi.com/) | [Join](https://discord.gg/catseyexi) | Wings | Custom | Retail | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:<br>_(2 active)_ | [Link](/servers/75_custom/catseyexi.md) |
@@ -38,6 +37,7 @@ This page is an overview of the various private servers currently available. Eac
 | [Phynix](https://phynix.fandom.com/wiki/PHYNIX_Wiki) | [Join](https://discord.gg/JBMeqdJ) | ToAU<br>_(with some Wings content)_ | Custom | 150% | :heavy_check_mark: | :x: | :heavy_check_mark:<br>_(2 active)_ | [Link](/servers/75_custom/phynix.md) |
 | [Supernova](https://supernovaffxi.wordpress.com/) | [Join](https://discord.gg/QBBdfQh) | ToAU | Custom | Custom | :heavy_check_mark: | :x: | :heavy_check_mark:<br>_(6 active, with rules)_ | [Link](/servers/75_custom/supernova.md) |
 | [WingsXI](https://wingsxi.com/wings/) | [Join](https://discord.gg/wNpVm35wbz) | Wings | Retail | Retail | :heavy_check_mark: | :x: | :x: | [Link](/servers/75_custom/wingsxi.md) |
+| [MogHouse.cc](https://www.moghouse.cc) | [Join](https://discord.gg/3ZfEJrp56X) | Zilart | Custom | 35 | :heavy_check_mark: | :x: | :heavy_check_mark: | [Link](/servers/99_custom/moghouse.md) |
 
 # Level Cap: 90 - Custom Content
 
@@ -58,7 +58,6 @@ This page is an overview of the various private servers currently available. Eac
 | [Caldera](http://www.ffxi-caldera.net/wiki/index.php/Main_Page) | [Join](https://discord.gg/5X9ZFsn) | All | Custom | 2x | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:<br>_(3 active, 1 bazaar)_ | [Link](/servers/99_custom/caldera.md) |
 | [DSP Old School](http://oldschool.dspt.info/) | [Join](https://discord.gg/7asbVtR) | :question: | :question: | :question: | :question: | :question: | :question: | [Link](/servers/99_custom/dsp_old_school.md) |
 | [Homepoint](http://homepointxi.com/) | [Join](https://discord.gg/BahyXQj) | Abyssea | Custom | 2x | :heavy_check_mark: | :x: | :heavy_check_mark: | [Link](/servers/99_custom/homepoint.md) |
-| [MogHouse.cc](https://www.moghouse.cc) | [Join](https://discord.gg/3ZfEJrp56X) | All | Custom | 60 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | [Link](/servers/99_custom/moghouse.md) |
 | [Nocturnal Souls](https://nocturnalsouls.net/) | [Join](https://discord.gg/swnTWUv) | All | Custom | :question: | :heavy_check_mark: | :question: | :heavy_check_mark:<br>_(3 active)_ | [Link](/servers/99_custom/nocturnal_souls.md) |
 | [Omicron](https://omicronxi.fandom.com/) | [Join](https://discord.gg/QknwN8fXPf) | All | Custom | 50 | :heavy_check_mark: | :heavy_check_mark: | :question: | [Link](/servers/99_custom/omnicron.md) |
 | [Realms of Jova](http://realmsofjova.net/) | [Join](https://discord.gg/CJyN4WC) | All | Custom | 2x | :heavy_check_mark: | :x: | :heavy_check_mark: | [Link](/servers/99_custom/realms_of_jova.md) |
