@@ -31,6 +31,7 @@ This page is an overview of the various private servers currently available. Eac
 | [Era](https://ffera.com/) | [Join](https://discord.gg/v2T95kq) | Wings | Custom | +20% | :heavy_check_mark: | :x: | :heavy_check_mark: <br>_(3 active)_ | [Link](/servers/75_custom/era.md) |
 | [Hokutens](https://hokutens.fandom.com/wiki/Hokutens_Ultimate_Wiki) | [Join](https://discord.gg/uJsf4N8) | Wings | Custom | 2x Retail | :heavy_check_mark: | :x: | :heavy_check_mark:<br>_(2 active, with rules)_ | [Link](/servers/75_custom/hokutens.md) |
 | [HorizonXI](https://horizonxi.com/) | [Join](https://discord.gg/horizonxi) | CoP | Retail | 40 (Old Retail) | :question: _(TBD)_ | :x: | :x: | [Link](/servers/75_custom/horizonxi.md) |
+| [MogHouse.cc](https://www.moghouse.cc) | [Join](https://discord.gg/3ZfEJrp56X) | Zilart | Custom | 35 | :heavy_check_mark: | :x: | :heavy_check_mark: | [Link](/servers/99_custom/moghouse.md) |
 | [Nasomi](https://na.nasomi.com/) | [Join](https://na.nasomi.com/chat/) | ToAU | :question: | :question: | :question: | :question: | :question: | [Link](/servers/75_custom/nasomi.md) |
 | [Nightbrood](https://nightbrood.fandom.com/wiki/NIGHTBROOD_Wiki) | [Join](https://discord.gg/Z7VpPHGDQ3) | Wings | Custom | Retail | :heavy_check_mark: | :x: | :x: | [Link](/servers/75_custom/nightbrood.md) |
 | [PhoenixXI](https://phoenixxi.online/) | [Join](https://discord.gg/26MJg5Hjv3) | ToAU | Custom | 2x | :heavy_check_mark: | :x: | :heavy_check_mark: | [Link](/servers/75_custom/phoenixxi.md) |
@@ -57,7 +58,6 @@ This page is an overview of the various private servers currently available. Eac
 | [Caldera](http://www.ffxi-caldera.net/wiki/index.php/Main_Page) | [Join](https://discord.gg/5X9ZFsn) | All | Custom | 2x | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:<br>_(3 active, 1 bazaar)_ | [Link](/servers/99_custom/caldera.md) |
 | [DSP Old School](http://oldschool.dspt.info/) | [Join](https://discord.gg/7asbVtR) | :question: | :question: | :question: | :question: | :question: | :question: | [Link](/servers/99_custom/dsp_old_school.md) |
 | [Homepoint](http://homepointxi.com/) | [Join](https://discord.gg/BahyXQj) | Abyssea | Custom | 2x | :heavy_check_mark: | :x: | :heavy_check_mark: | [Link](/servers/99_custom/homepoint.md) |
-| [MogHouse.cc](https://www.moghouse.cc) | [Join](https://discord.gg/3ZfEJrp56X) | All | Custom | 60 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | [Link](/servers/99_custom/moghouse.md) |
 | [Nocturnal Souls](https://nocturnalsouls.net/) | [Join](https://discord.gg/swnTWUv) | All | Custom | :question: | :heavy_check_mark: | :question: | :heavy_check_mark:<br>_(3 active)_ | [Link](/servers/99_custom/nocturnal_souls.md) |
 | [Omicron](https://omicronxi.fandom.com/) | [Join](https://discord.gg/QknwN8fXPf) | All | Custom | 50 | :heavy_check_mark: | :heavy_check_mark: | :question: | [Link](/servers/99_custom/omnicron.md) |
 | [Realms of Jova](http://realmsofjova.net/) | [Join](https://discord.gg/CJyN4WC) | All | Custom | 2x | :heavy_check_mark: | :x: | :heavy_check_mark: | [Link](/servers/99_custom/realms_of_jova.md) |
