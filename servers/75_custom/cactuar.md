@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<a href="https://www.discord.gg/DP59SmXN7v" >DISCORD</a>   <a href="https://www.discord.gg/DP59SmXN7v" >WEBSITE</a> 
+<a href="https://www.discord.gg/DP59SmXN7v" >DISCORD</a>   <a href="https://www.cactuarxi.com" >WEBSITE</a> 
 <hr style="margin: 0px">
 <table class="tg">
 <thead>
@@ -44,4 +44,4 @@ Play: --server play.cactuarxi.com --nossl
 <br />
 Discord: <a href="https://www.discord.gg/DP59SmXN7v">https://www.discord.gg/CactuarXI</a>
 <br />
-Website: Coming Soon
+Website: <a href="https://www.cactuarx.com">https://www.cactuarxi.com</a>
