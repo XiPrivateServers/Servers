@@ -18,7 +18,6 @@ This page is an overview of the various private servers currently available. Eac
 | [Eden](https://edenxi.com/) | [Join](https://discord.gg/S3EAWr2Jec) | ToAU | Retail | Retail | :heavy_check_mark: | :x: | :heavy_check_mark:<br>_(2 active, 1 bazaar/mule)_ | [Link](/servers/75_retail/eden.md) |
 | [Kujata Reborn](https://kujatareborn.com/) | [Join](https://discord.gg/N2mf8KZ) | Wings | Retail | Retail | :heavy_check_mark: | :x: | :heavy_check_mark:<br>_(2 active, 1 bazaar/crafter/mule)_ | [Link](/servers/75_retail/kujata_reborn.md) |
 | [Omega](https://ffxi.party/) | [Join](https://discord.gg/srNwwCs) | ToAU | Retail | Slightly Faster Than Retail | :heavy_check_mark: | :x: | :heavy_check_mark:<br>_(2 active)_ | [Link](/servers/75_retail/omega.md) |
-| [Tabula Rasa](https://tabularasaxi.com/) | [Join](https://discord.gg/FJkrBrV7Cx) | RoZ | 2x | 120% | :heavy_check_mark: | :x: | :x: | [Link](/servers/75_retail/tabula_rasa.md) |
 
 # Level Cap: 75 - Custom Content
 
@@ -32,11 +31,12 @@ This page is an overview of the various private servers currently available. Eac
 | [Hokutens](https://hokutens.fandom.com/wiki/Hokutens_Ultimate_Wiki) | [Join](https://discord.gg/uJsf4N8) | Wings | Custom | 2x Retail | :heavy_check_mark: | :x: | :heavy_check_mark:<br>_(2 active, with rules)_ | [Link](/servers/75_custom/hokutens.md) |
 | [HorizonXI](https://horizonxi.com/) | [Join](https://discord.gg/horizonxi) | CoP | Retail | 40 (Old Retail) | :question: _(TBD)_ | :x: | :x: | [Link](/servers/75_custom/horizonxi.md) |
 | [MogHouse.cc](https://www.moghouse.cc) | [Join](https://discord.gg/3ZfEJrp56X) | Zilart | Custom | 35 | :heavy_check_mark: | :x: | :heavy_check_mark: | [Link](/servers/99_custom/moghouse.md) |
-| [Nasomi](https://na.nasomi.com/) | [Join](https://na.nasomi.com/chat/) | ToAU | :question: | :question: | :question: | :question: | :question: | [Link](/servers/75_custom/nasomi.md) |
+| [Nasomi](https://na.nasomi.com/) | [Join](https://na.nasomi.com/chat/) | ToAU | :question: | :question: | :heavy_check_mark: | :x: | :heavy_check_mark:<br>_(3 active, with rules)_ | [Link](/servers/75_custom/nasomi.md) |
 | [Nightbrood](https://nightbrood.fandom.com/wiki/NIGHTBROOD_Wiki) | [Join](https://discord.gg/Z7VpPHGDQ3) | Wings | Custom | Retail | :heavy_check_mark: | :x: | :x: | [Link](/servers/75_custom/nightbrood.md) |
 | [PhoenixXI](https://phoenixxi.online/) | [Join](https://discord.gg/26MJg5Hjv3) | ToAU | Custom | 2x | :heavy_check_mark: | :x: | :heavy_check_mark: | [Link](/servers/75_custom/phoenixxi.md) |
 | [Phynix](https://phynix.fandom.com/wiki/PHYNIX_Wiki) | [Join](https://discord.gg/JBMeqdJ) | ToAU<br>_(with some Wings content)_ | Custom | 150% | :heavy_check_mark: | :x: | :heavy_check_mark:<br>_(2 active)_ | [Link](/servers/75_custom/phynix.md) |
 | [Supernova](https://supernovaffxi.wordpress.com/) | [Join](https://discord.gg/QBBdfQh) | ToAU | Custom | Custom | :heavy_check_mark: | :x: | :heavy_check_mark:<br>_(6 active, with rules)_ | [Link](/servers/75_custom/supernova.md) |
+| [Tabula Rasa](https://tabularasaxi.com/) | [Join](https://discord.gg/FJkrBrV7Cx) | CoP | 2x | 120% | :heavy_check_mark: | :x: | :x: | [Link](/servers/75_retail/tabula_rasa.md) |
 | [WingsXI](https://wingsxi.com/wings/) | [Join](https://discord.gg/wNpVm35wbz) | Wings | Retail | Retail | :heavy_check_mark: | :x: | :x: | [Link](/servers/75_custom/wingsxi.md) |
 
 # Level Cap: 90 - Custom Content
