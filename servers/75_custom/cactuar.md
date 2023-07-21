@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-<a href="https://www.discord.gg/DP59SmXN7v" >DISCORD</a>   <a href="https://www.cactuarxi.com" >WEBSITE</a> 
+<a href="https://www.cactuarxi.com" >WEBSITE</a> | <a href="https://www.discord.gg/DP59SmXN7v" >DISCORD</a>
 <hr style="margin: 0px">
-<table class="tg">
+<table class="tg" align="center">
 <thead>
   <tr>
     <th>Basic Information</th>
@@ -40,8 +40,7 @@
 </tbody>
 </table>
 <hr style="margin: 0px">
-Play: --server play.cactuarxi.com --nossl 
+Website: <a href="https://www.cactuarxi.com">https://www.cactuarxi.com</a>
 <br />
 Discord: <a href="https://www.discord.gg/DP59SmXN7v">https://www.discord.gg/CactuarXI</a>
-<br />
-Website: <a href="https://www.cactuarx.com">https://www.cactuarxi.com</a>
+
