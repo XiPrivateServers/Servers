@@ -30,7 +30,7 @@
             <td>Custom playtime based rewards</td>
         </tr>
         <tr>
-            <td>Full Web and Mob Search</td>
+            <td>Web Item and Mob Search</td>
             <td>Full Web AH Management</td>
         </tr>
     </tbody>
