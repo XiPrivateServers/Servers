@@ -30,7 +30,6 @@ This page is an overview of the various private servers currently available. Eac
 | [Era](https://ffera.com/) | [Join](https://discord.gg/v2T95kq) | Wings | Custom | +20% | :heavy_check_mark: | :x: | :heavy_check_mark: <br>_(3 active)_ | [Link](/servers/75_custom/era.md) |
 | [Hokutens](https://hokutens.fandom.com/wiki/Hokutens_Ultimate_Wiki) | [Join](https://discord.gg/uJsf4N8) | Wings | Custom | 2x Retail | :heavy_check_mark: | :x: | :heavy_check_mark:<br>_(2 active, with rules)_ | [Link](/servers/75_custom/hokutens.md) |
 | [HorizonXI](https://horizonxi.com/) | [Join](https://discord.gg/horizonxi) | CoP | Retail | 40 (Old Retail) | :question: _(TBD)_ | :x: | :x: | [Link](/servers/75_custom/horizonxi.md) |
-| [MogHouse.cc](https://www.moghouse.cc) | [Join](https://discord.gg/3ZfEJrp56X) | Zilart | Custom | 35 | :heavy_check_mark: | :x: | :heavy_check_mark: | [Link](/servers/99_custom/moghouse.md) |
 | [Nasomi](https://na.nasomi.com/) | [Join](https://na.nasomi.com/chat/) | ToAU | :question: | :question: | :heavy_check_mark: | :x: | :heavy_check_mark:<br>_(3 active, with rules)_ | [Link](/servers/75_custom/nasomi.md) |
 | [Nightbrood](https://nightbrood.fandom.com/wiki/NIGHTBROOD_Wiki) | [Join](https://discord.gg/Z7VpPHGDQ3) | Wings | Custom | Retail | :heavy_check_mark: | :x: | :x: | [Link](/servers/75_custom/nightbrood.md) |
 | [PhoenixXI](https://phoenixxi.online/) | [Join](https://discord.gg/26MJg5Hjv3) | ToAU | Custom | 2x | :heavy_check_mark: | :x: | :heavy_check_mark: | [Link](/servers/75_custom/phoenixxi.md) |
