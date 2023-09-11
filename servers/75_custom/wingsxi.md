@@ -17,6 +17,7 @@
    - All ZNMs _including_ Pandemonium Warden
    - WotG missions up to and including "Purple, the New Black" (With an obvious stated goal of getting retail-accurate continuation of the story)
    - Dark Ixion with proper spawn/spook/claim mechanics
+   - All three Mini-Expansions fully functional (ACP,AMK,ASA) with repeatable rewards and Nexus Cape
  - Fully open-source, including:
    - A [dynamic data-lookup tool](https://www.wingsxi.com/wangzthangz/index.php)
    - A [custom loader](https://gitlab.com/ffxiwings/wingsloader) and [login server](https://gitlab.com/ffxiwings/wings/-/tree/master/src/new-login) that supports advanced encryption and MFA (and more mog storage in game if MFA is enabled)
