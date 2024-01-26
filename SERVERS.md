@@ -61,3 +61,8 @@ This page is an overview of the various private servers currently available. Eac
 | [Nocturnal Souls](https://nocturnalsouls.net/) | [Join](https://discord.gg/swnTWUv) | All | Custom | :question: | :heavy_check_mark: | :question: | :heavy_check_mark:<br>_(3 active)_ | [Link](/servers/99_custom/nocturnal_souls.md) |
 | [Omicron](https://omicronxi.fandom.com/) | [Join](https://discord.gg/QknwN8fXPf) | All | Custom | 50 | :heavy_check_mark: | :heavy_check_mark: | :question: | [Link](/servers/99_custom/omnicron.md) |
 | [Realms of Jova](http://realmsofjova.net/) | [Join](https://discord.gg/CJyN4WC) | All | Custom | 2x | :heavy_check_mark: | :x: | :heavy_check_mark: | [Link](/servers/99_custom/realms_of_jova.md) |
+
+# Uncaped: - Solo Play
+| Name | Discord | Expansion | Rates | Move Speed | Level Sync? | Trusts? | Dual-Boxing? | Full Info |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [Cid](https://osses.life/index.php) | | All | Custom | 3.5x | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:<br>_(3 active, 1 bazaar)_ | [Link](https://osses.life/index.php)|
