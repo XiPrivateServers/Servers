@@ -59,3 +59,9 @@ This page is an overview of the various private servers currently available. Eac
 | [Nocturnal Souls](https://nocturnalsouls.net/) | [Join](https://discord.gg/swnTWUv) | All | Custom | :question: | :heavy_check_mark: | :question: | :heavy_check_mark:<br>_(3 active)_ | [Link](/servers/99_custom/nocturnal_souls.md) |
 | [Omicron](https://omicronxi.fandom.com/) | [Join](https://discord.gg/QknwN8fXPf) | All | Custom | 50 | :heavy_check_mark: | :heavy_check_mark: | :question: | [Link](/servers/99_custom/omnicron.md) |
 | [Realms of Jova](http://realmsofjova.net/) | [Join](https://discord.gg/CJyN4WC) | All | Custom | 2x | :heavy_check_mark: | :x: | :heavy_check_mark: | [Link](/servers/99_custom/realms_of_jova.md) |
+
+# Level Cap: 99 - Custom Content (Chinese Servers)
+
+| Name | Discord | Expansion | Rates | Move Speed | Level Sync? | Trusts? | Dual-Boxing? | Full Info |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [ff11sf](http://update.ff11sf.com/) | [Join (WeChat)](https://work.weixin.qq.com/wework_admin/join?vcode=6eac4579a63b49b2d11466e03d39de08&r=hb_share_wqq) | All | Retail | Retail | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:<br>_(Unknown Rules)_ | [Link](/servers/99_custom/ff11sf.md) |
