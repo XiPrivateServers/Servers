@@ -47,7 +47,7 @@ This page is an overview of the various private servers currently available. Eac
 
 | Name | Discord | Expansion | Rates | Move Speed | Level Sync? | Trusts? | Dual-Boxing? | Full Info |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [xiweb](https://xiweb.catsangel.com/) | [Join](https://discord.gg/77j69vffNM) | All | Retail | Retail | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | [Link](/servers/99_retail/xiweb.md) |
+| N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A | N/A |
 
 # Level Cap: 99 - Custom Content
 
