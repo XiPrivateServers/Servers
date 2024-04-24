@@ -23,7 +23,6 @@ This page is an overview of the various private servers currently available. Eac
 
 | Name | Discord | Expansion | Rates | Move Speed | Level Sync? | Trusts? | Dual-Boxing? | Full Info |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [Aurora](http://aurorahcs.com/) | [Join](https://discord.gg/HYtX3Re) | CoP | Custom | Retail | :heavy_check_mark: | :x: | :x: | [Link](/servers/75_custom/aurora.md) |
 | [Cactuar](https://www.cactuarxi.com) | [Join](https://www.discord.gg/DP59SmXN7v) | Wings | Custom (2x) | +12% | :heavy_check_mark: | :x: | :x: | [Link](/servers/75_custom/cactuar.md) |
 | [CatsEyeXI](https://catseyexi.com/) | [Join](https://discord.gg/catseyexi) | Wings | Custom | Retail | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:<br>_(2 active)_ | [Link](/servers/75_custom/catseyexi.md) |
 | [Demiurge](http://www.demiurge.pw) | [Join](https://discord.gg/SSU3HMq) | CoP<br>_(with ACP)_ | Custom | Flee Speed | :heavy_check_mark: | :x: | :heavy_check_mark:<br>_(3 active)_ | [Link](/servers/75_custom/demiurge.md) |
