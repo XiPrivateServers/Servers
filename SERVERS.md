@@ -32,7 +32,6 @@ This page is an overview of the various private servers currently available. Eac
 | [HorizonXI](https://horizonxi.com/) | [Join](https://discord.gg/horizonxi) | CoP | Retail | 40 (Old Retail) | :question: _(TBD)_ | :x: | :x: | [Link](/servers/75_custom/horizonxi.md) |
 | [Nasomi](https://na.nasomi.com/) | [Join](https://na.nasomi.com/chat/) | ToAU | :question: | :question: | :heavy_check_mark: | :x: | :heavy_check_mark:<br>_(3 active, with rules)_ | [Link](/servers/75_custom/nasomi.md) |
 | [Nightbrood](https://nightbrood.fandom.com/wiki/NIGHTBROOD_Wiki) | [Join](https://discord.gg/Z7VpPHGDQ3) | Wings | Custom | Retail | :heavy_check_mark: | :x: | :x: | [Link](/servers/75_custom/nightbrood.md) |
-| [PhoenixXI](https://phoenixxi.online/) | [Join](https://discord.gg/26MJg5Hjv3) | ToAU | Custom | 2x | :heavy_check_mark: | :x: | :heavy_check_mark: | [Link](/servers/75_custom/phoenixxi.md) |
 | [Phynix](https://phynix.fandom.com/wiki/PHYNIX_Wiki) | [Join](https://discord.gg/JBMeqdJ) | ToAU<br>_(with some Wings content)_ | Custom | 150% | :heavy_check_mark: | :x: | :heavy_check_mark:<br>_(2 active)_ | [Link](/servers/75_custom/phynix.md) |
 | [Supernova](https://supernovaffxi.wordpress.com/) | [Join](https://discord.gg/QBBdfQh) | ToAU | Custom | Custom | :heavy_check_mark: | :x: | :heavy_check_mark:<br>_(6 active, with rules)_ | [Link](/servers/75_custom/supernova.md) |
 | [Tabula Rasa](https://tabularasaxi.com/) | [Join](https://discord.gg/FJkrBrV7Cx) | CoP | 2x | 120% | :heavy_check_mark: | :x: | :x: | [Link](/servers/75_retail/tabula_rasa.md) |
