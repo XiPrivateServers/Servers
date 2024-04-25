@@ -5,6 +5,5 @@
 
 # Server Information
 
-> **Warning**
-> 
+> [!WARNING]
 > This server's administration team is banned from our community for continued problematic behavior.
