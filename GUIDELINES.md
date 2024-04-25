@@ -15,16 +15,14 @@ Firstly, hello and welcome to our community! In order to have your server added 
 
 If you feel your server meets the above requirements and wish to have it added to the listings, please open a new issue using the `New Server Listing` template. _Applications must be filled out fully, otherwise your server will be rejected!_
 
-> **Note**
->
+> [!NOTE]
 > These requirements are not designed to deter new servers from starting or succeeding. Instead, they are designed to prevent a large influx of newcomers from spamming to have their server added to the list who will not stick around for the long haul. In most cases, new servers rarely last the first few months. This generally happens because the owner(s) joined the community without understanding there is actual work involved in running a successful server and that just compiling the code does not get what they wanted immediately. Because of this, we ask that people prove they plan to stick around and put in the effort of running their server before we will add it to our lists.
 
 # Guidelines - Updating Existing Listings
 
 Owners are encouraged to keep their server listing information up to date. This includes both your servers information on the main [Server List](SERVERS.md) page, as well as your servers individual advertisement page in the respective `/servers/` folder.
 
-> **Note**
->
+> [!NOTE]
 > Pull requests made to make changes to a servers information **MUST** be submitted by the servers owner. Submissions from non-owners will be rejected. This is to prevent spam editing listings for malicious intent or attempting to provide invalid information.
 
 Server advertisement pages are intended to be customized by the owner to look unique and provide the best information for your server. We encourage you to style it as you wish, including the use of images, have detailed information (lists, tables, etc.), and be creative. However, in doing so, we also ask that you follow the guidelines listed here to avoid having your listing modified by staff.
@@ -73,6 +71,5 @@ Along with this, your server listing **SHOULD NOT** include any of the following
   - Any kind of drama, insults, or other content towards another server. _(You should not mention any other servers in your listing.)_
   - Misleading information to attract players with false pretenses. _(ie. Fake player counts, inflated population growth, etc.)_
 
-> **Note**
->
+> [!NOTE]
 > These guidelines are subject to change, at any time, without any notice. We reserve the right to alter any server listing as we see fit to adhere to these guidelines or any future changes made to them.
