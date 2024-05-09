@@ -1,7 +1,7 @@
 # Demiurge
 
   - **Website:** http://www.demiurge.pw
-  - **Discord:** https://discord.gg/SSU3HMq
+  - **Discord:** https://discord.gg/x8CFKDJaU9
 
 # Server Information
 
