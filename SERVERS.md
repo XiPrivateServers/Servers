@@ -56,7 +56,7 @@ This page is an overview of the various private servers currently available. Eac
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [Caldera](http://www.ffxi-caldera.net/wiki/index.php/Main_Page) | [Join](https://discord.gg/5X9ZFsn) | All | Custom | 2x | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:<br>_(3 active, 1 bazaar)_ | [Link](/servers/99_custom/caldera.md) |
 | [DSP Old School](http://oldschool.dspt.info/) | [Join](https://discord.gg/7asbVtR) | :question: | :question: | :question: | :question: | :question: | :question: | [Link](/servers/99_custom/dsp_old_school.md) |
-| [Homepoint](http://homepointxi.com/) | [Join](https://discord.gg/BahyXQj) | Abyssea | Custom | 2x | :heavy_check_mark: | :x: | :heavy_check_mark: | [Link](/servers/99_custom/homepoint.md) |
+| [Homepoint](http://homepointxi.com/) | [Join](https://discord.gg/BahyXQj) | Abyssea | Custom | 2x | :heavy_check_mark: | :x: | :heavy_check_mark:<br>_(Unlimited; with rules.)_ | [Link](/servers/99_custom/homepoint.md) |
 | [LevelDown](https://ffxileveldown.fandom.com/wiki/FFXILevelDown_Wiki) | [Join](https://discord.gg/qcQBh46j) | All | Custom | 50 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:<br>_(2 active, 1 mule)_ | [Link](/servers/99_custom/leveldown.md) |
 | [Nocturnal Souls](https://nocturnalsouls.net/) | [Join](https://discord.gg/swnTWUv) | All | Custom | :question: | :heavy_check_mark: | :question: | :heavy_check_mark:<br>_(3 active)_ | [Link](/servers/99_custom/nocturnal_souls.md) |
 | [Omicron](https://omicronxi.fandom.com/) | [Join](https://discord.gg/QknwN8fXPf) | All | Custom | 50 | :heavy_check_mark: | :heavy_check_mark: | :question: | [Link](/servers/99_custom/omnicron.md) |
