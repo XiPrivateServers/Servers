@@ -1,6 +1,6 @@
 # Omicron
 
-  - **Website:** https://omicronxi.fandom.com/
+  - **Website:** http://wiki.omicronffxi.com/
   - **Discord:** https://discord.gg/QknwN8fXPf
 
 # Server Information
