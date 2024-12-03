@@ -58,7 +58,6 @@ This page is an overview of the various private servers currently available. Eac
 | [Homepoint](http://homepointxi.com/) | [Join](https://discord.gg/BahyXQj) | Abyssea | Custom | 2x | :heavy_check_mark: | :x: | :heavy_check_mark:<br>_(Unlimited; with rules.)_ | [Link](/servers/99_custom/homepoint.md) |
 | [LevelDown](https://ffxileveldown.fandom.com/wiki/FFXILevelDown_Wiki) | [Join](https://discord.gg/qcQBh46j) | All | Custom | 50 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:<br>_(2 active, 1 mule)_ | [Link](/servers/99_custom/leveldown.md) |
 | [Omicron](http://wiki.omicronffxi.com/) | [Join](https://discord.gg/QknwN8fXPf) | All | Custom | 50 | :heavy_check_mark: | :heavy_check_mark: | :question: | [Link](/servers/99_custom/omicron.md) |
-| [Realms of Jova](http://realmsofjova.net/) | [Join](https://discord.gg/CJyN4WC) | All | Custom | 2x | :heavy_check_mark: | :x: | :heavy_check_mark: | [Link](/servers/99_custom/realms_of_jova.md) |
 
 # Level Cap: 99 - Custom Content (Chinese Servers)
 
