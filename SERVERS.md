@@ -25,7 +25,7 @@ This page is an overview of the various private servers currently available. Eac
 | [AtavismXI](https://www.atavismxi.com/) | [Join](https://discord.gg/Hpe657nmGu) | CoP | Custom (1x to 1.5x) | Retail | :heavy_check_mark: | :x: | :heavy_check_mark: | [Link](/servers/75_custom/atavismxi.md) |
 | [Cactuar](https://www.cactuarxi.com) | [Join](https://www.discord.gg/DP59SmXN7v) | Wings | Custom (2x) | +12% | :heavy_check_mark: | :x: | :x: | [Link](/servers/75_custom/cactuar.md) |
 | [CatsEyeXI](https://catseyexi.com/) | [Join](https://discord.gg/catseyexi) | Wings | Custom | Retail | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:<br>_(2 active)_ | [Link](/servers/75_custom/catseyexi.md) |
-| [Demiurge](http://www.demiurge.pw) | [Join](https://discord.gg/SSU3HMq) | CoP<br>_(with ACP)_ | Custom | Flee Speed | :heavy_check_mark: | :x: | :heavy_check_mark:<br>_(3 active)_ | [Link](/servers/75_custom/demiurge.md) |
+| [Demiurge](http://xi.demiurge.fun) | [Join](https://discord.gg/x8CFKDJaU9) | CoP<br>_(with ACP)_ | Custom | Flee Speed | :heavy_check_mark: | :x: | :heavy_check_mark:<br>_(3 active)_ | [Link](/servers/75_custom/demiurge.md) |
 | [Era](https://ffera.com/) | [Join](https://discord.gg/v2T95kq) | Wings | Custom | +20% | :heavy_check_mark: | :x: | :heavy_check_mark: <br>_(3 active)_ | [Link](/servers/75_custom/era.md) |
 | [Gaia XI](https://gaiaxi.com/) | [Join](https://discord.gg/2c6HjwNuNK) | ToAU | Custom | 2x Retail | :heavy_check_mark: | :x: | :heavy_check_mark:<br>_(2 active, with rules)_ | [Link](/servers/75_custom/gaia.md) |
 | [HorizonXI](https://horizonxi.com/) | [Join](https://discord.gg/horizonxi) | CoP | Retail | 40 (Old Retail) | :question: _(TBD)_ | :x: | :x: | [Link](/servers/75_custom/horizonxi.md) |
