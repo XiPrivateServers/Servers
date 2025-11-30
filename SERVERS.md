@@ -50,7 +50,6 @@ This page is an overview of the various private servers currently available. Eac
 | [DSP Old School](http://oldschool.dspt.info/) | [Join](https://discord.gg/7asbVtR) | :question: | :question: | :question: | :question: | :question: | :question: | [Link](/servers/99_custom/dsp_old_school.md) |
 | [LevelDown](https://ffxileveldown.fandom.com/wiki/FFXILevelDown_Wiki) | [Join](https://discord.gg/qcQBh46j) | All | Custom | 50 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:<br>_(2 active, 1 mule)_ | [Link](/servers/99_custom/leveldown.md) |
 | [Omicron](http://wiki.omicronffxi.com/) | [Join](https://discord.gg/QknwN8fXPf) | All | Custom | 50 | :heavy_check_mark: | :heavy_check_mark: | :question: | [Link](/servers/99_custom/omicron.md) |
-| [Vana Skies](https://discord.gg/rQjzkpA) | [Join](https://discord.gg/rQjzkpA) | All | Custom | 80 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:<br>_(2 account limit, with rules.)_ | [Link](/servers/90_custom/vanaskies.md) |
 
 # Level Cap: 99 - Custom Content (Chinese Servers)
 
