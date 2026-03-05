@@ -21,7 +21,6 @@ This page is an overview of the various private servers currently available. Eac
 
 | Name | Discord | Expansion | Rates | Move Speed | Level Sync? | Trusts? | Dual-Boxing? | Full Info |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [CatsEyeXI](https://catseyexi.com/) | [Join](https://discord.gg/catseyexi) | Wings | Custom | Retail | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:<br>_(2 active)_ | [Link](/servers/75_custom/catseyexi.md) |
 | [Demiurge](http://xi.demiurge.fun) | [Join](https://discord.gg/x8CFKDJaU9) | CoP<br>_(with ACP)_ | Custom | Flee Speed | :heavy_check_mark: | :x: | :heavy_check_mark:<br>_(3 active)_ | [Link](/servers/75_custom/demiurge.md) |
 | [Era](https://ffera.com/) | [Join](https://discord.gg/v2T95kq) | Wings | Custom | +20% | :heavy_check_mark: | :x: | :heavy_check_mark: <br>_(3 active)_ | [Link](/servers/75_custom/era.md) |
 | [Gaia XI](https://gaiaxi.com/) | [Join](https://discord.gg/2c6HjwNuNK) | ToAU | Custom | 2x Retail | :heavy_check_mark: | :x: | :heavy_check_mark:<br>_(2 active, with rules)_ | [Link](/servers/75_custom/gaia.md) |
