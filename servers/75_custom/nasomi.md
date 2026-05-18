@@ -1,7 +1,7 @@
 # Nasomi
 
   - **Website:** https://na.nasomi.com/
-  - **Discord:** https://na.nasomi.com/chat/
+  - **Discord:** https://na.nasomi.com/forum/
 
 # Server Information
 

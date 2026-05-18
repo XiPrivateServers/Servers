@@ -16,4 +16,4 @@ _75cap Treasures of Aht Urhgan era server with loads of custom content and vario
   - `x1.5` - **MP**
   - **Increased Drop Rates**
 
-Additional information can be found here: https://gaiaxi.com/server.xi
+Additional information can be found here: https://gaiaxi.com/res/info/server.xi

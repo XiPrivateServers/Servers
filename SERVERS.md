@@ -25,10 +25,9 @@ This page is an overview of the various private servers currently available. Eac
 | [Era](https://ffera.com/) | [Join](https://discord.gg/v2T95kq) | Wings | Custom | +20% | :heavy_check_mark: | :x: | :heavy_check_mark: <br>_(3 active)_ | [Link](/servers/75_custom/era.md) |
 | [Gaia XI](https://gaiaxi.com/) | [Join](https://discord.gg/2c6HjwNuNK) | ToAU | Custom | 2x Retail | :heavy_check_mark: | :x: | :heavy_check_mark:<br>_(2 active, with rules)_ | [Link](/servers/75_custom/gaia.md) |
 | [HorizonXI](https://horizonxi.com/) | [Join](https://discord.gg/horizonxi) | CoP | Retail | 40 (Old Retail) | :question: _(TBD)_ | :x: | :x: | [Link](/servers/75_custom/horizonxi.md) |
-| [LevelDown](https://ffxileveldown.fandom.com/wiki/FFXILevelDown_Wiki) | [Join](https://discord.gg/qcQBh46j) | WoTG | Custom | 50 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:<br>_(2 active, 1 mule)_ | [Link](/servers/75_custom/leveldown.md) |
-| [Nasomi](https://na.nasomi.com/) | [Join](https://na.nasomi.com/chat/) | ToAU | :question: | :question: | :heavy_check_mark: | :x: | :heavy_check_mark:<br>_(3 active, with rules)_ | [Link](/servers/75_custom/nasomi.md) |
+| [LevelDown](https://ffxileveldown.fandom.com/wiki/FFXILevelDown_Wiki) | [Join](https://discord.gg/uZ5J2KwAPA) | WoTG | Custom | 50 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:<br>_(2 active, 1 mule)_ | [Link](/servers/75_custom/leveldown.md) |
+| [Nasomi](https://na.nasomi.com/) | [Join](https://na.nasomi.com/forum/) | ToAU | :question: | :question: | :heavy_check_mark: | :x: | :heavy_check_mark:<br>_(3 active, with rules)_ | [Link](/servers/75_custom/nasomi.md) |
 | [Supernova](https://supernovaffxi.wordpress.com/) | [Join](https://discord.gg/QBBdfQh) | ToAU | Custom | Custom | :heavy_check_mark: | :x: | :heavy_check_mark:<br>_(6 active, with rules)_ | [Link](/servers/75_custom/supernova.md) |
-| [Tabula Rasa](https://tabularasaxi.com/) | [Join](https://discord.gg/FJkrBrV7Cx) | CoP | 2x | 120% | :heavy_check_mark: | :x: | :x: | [Link](/servers/75_custom/tabula_rasa.md) |
 
 # Level Cap: 90 - Custom Content
 
@@ -47,8 +46,7 @@ This page is an overview of the various private servers currently available. Eac
 | Name | Discord | Expansion | Rates | Move Speed | Level Sync? | Trusts? | Dual-Boxing? | Full Info |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [DSP Old School](http://oldschool.dspt.info/) | [Join](https://discord.gg/7asbVtR) | :question: | :question: | :question: | :question: | :question: | :question: | [Link](/servers/99_custom/dsp_old_school.md) |
-| [LevelDown](https://ffxileveldown.fandom.com/wiki/FFXILevelDown_Wiki) | [Join](https://discord.gg/qcQBh46j) | All | Custom | 50 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:<br>_(2 active, 1 mule)_ | [Link](/servers/99_custom/leveldown.md) |
-| [Omicron](http://wiki.omicronffxi.com/) | [Join](https://discord.gg/QknwN8fXPf) | All | Custom | 50 | :heavy_check_mark: | :heavy_check_mark: | :question: | [Link](/servers/99_custom/omicron.md) |
+| [LevelDown](https://ffxileveldown.fandom.com/wiki/FFXILevelDown_Wiki) | [Join](https://discord.gg/uZ5J2KwAPA) | All | Custom | 50 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:<br>_(2 active, 1 mule)_ | [Link](/servers/99_custom/leveldown.md) |
 
 # Level Cap: 99 - Custom Content (Chinese Servers)
 
