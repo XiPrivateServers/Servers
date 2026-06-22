@@ -46,6 +46,7 @@ This page is an overview of the various private servers currently available. Eac
 | Name | Discord | Expansion | Rates | Move Speed | Level Sync? | Trusts? | Dual-Boxing? | Full Info |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | [DSP Old School](http://oldschool.dspt.info/) | [Join](https://discord.gg/7asbVtR) | :question: | :question: | :question: | :question: | :question: | :question: | [Link](/servers/99_custom/dsp_old_school.md) |
+| [Legendary](https://legendary-ffxi.pages.dev/) | [Join](https://discord.gg/7asbVtR) | All | Custom | 5x Retail | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | [Link](/servers/99_custom/legendary.md) |
 | [LevelDown](https://ffxileveldown.fandom.com/wiki/FFXILevelDown_Wiki) | [Join](https://discord.gg/uZ5J2KwAPA) | All | Custom | 50 | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:<br>_(2 active, 1 mule)_ | [Link](/servers/99_custom/leveldown.md) |
 
 # Level Cap: 99 - Custom Content (Chinese Servers)
