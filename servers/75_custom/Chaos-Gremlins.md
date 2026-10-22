@@ -1,7 +1,7 @@
-# Demiurge
-- **Website:** http://xi.demiurge.fun
+# Chaos-Gremlins
+- **Website:** https://xi.chaos-gremlins.party
 - **Discord:** https://discord.gg/x8CFKDJaU9
-- **Wiki:** https://github.com/Demiurge-XI/feedback-and-info/wiki
+- **Wiki:** https://github.com/chaos-gremlins/feedback-and-info/wiki
 
 
 # Server Information
@@ -27,7 +27,7 @@
 - Bot does not purchase from players, only supplies items players are not providing.
 - Bot items can be changed via our feedback repository as the item list is public.
 
-#### Demiurge is a build-it-as-we-go server, meaning that more expansions will get enabled as sufficient content exists for them. 
+#### Chaos-Gremlins will enable more expansions when sufficient content + demand exists for them. 
 
 | **Expansions:**                                                  | **Other content:**                                                          |
 | -------------                                                    | -------------                                                               |
@@ -52,11 +52,7 @@ You can find previous Reddit threads for this server here:
 ----
 
 ## Regarding the server name
-The Demiurge is in several Greek writings.<br>
-In some, it is a mindless force of creation - just building because its what it does and can't do anything else.<br>
-In others, it is an evil (or sometimes merely ignorant) god that has its creations trapped in the material world.<br>
-Timaeus describes the Demiurge as unreservedly benevolent, and so it desires a world as good as possible.<br>
-The world remains imperfect, however, because the Demiurge created the world out of a chaotic, indeterminate non-being. 
+Formerly "Demiurge" until a shady registrar practice forced a rebrand by holding our domain name hostage.
 
 ![image](https://github.com/TeoTwawki/XiPrivateServers/assets/6871475/d5a49d7b-bc71-477c-971b-ac9994e2da8b)
 ##### _Teo cannot help but build things. It is the nature of Teo to keep making things.<br>We are trapped in the inability to permanently give up this game.<br>Teo is (allegedly) benevolent but the game is imperfect because it is made using chaotic client side and "PS2 limitations"._
